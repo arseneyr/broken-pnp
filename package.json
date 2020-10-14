@@ -1,0 +1,10 @@
+{
+  "name": "broken-pnp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.4.0",
+    "typescript": "^4.0.3"
+  }
+}

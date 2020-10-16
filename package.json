@@ -6,5 +6,8 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
     "typescript": "^4.0.3"
+  },
+  "resolutions": {
+    "redux-thunk": "https://github.com/reduxjs/redux-thunk.git#80296ec9ef49410e2eb29b3531ceac094d5e03bd"
   }
 }
